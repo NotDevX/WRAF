@@ -7,7 +7,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Devy Shit Products")]
 [assembly: AssemblyProduct("RDresses")]
-[assembly: AssemblyCopyright("Copyright © DSP 2023")]
+[assembly: AssemblyCopyright("None")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: ComVisible(false)]
